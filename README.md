@@ -13,7 +13,7 @@ About
 
 Example
 -------
-```
+```js
 var modulesFolder = FileSystemSync('Modules');
 var xslt = require(modulesFolder.path + "xslt");
 
