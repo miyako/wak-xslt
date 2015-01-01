@@ -1,0 +1,25 @@
+#Version: 1.0
+#Software: Wakanda/10 build 10.174980 (MacOS-x64)
+#Date: 2015-01-01 17:25:20
+#Remark: format ELF
+#Fields: BYTES_SENT CS-CDNS C-IP CS(COOKIE) CS(HOST) CS(REFERER) CS(USER-AGENT) USER METHOD CS-SIP SC-STATUS CS-URI CS-URI-QUERY CS-URI-STEM DATE TIME TIME-TAKEN
+16 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "" "127.0.0.1:8081" "" "4D_HTTP_Client/10" - POST ::ffff:127.0.0.1 401 /rest/$directory/loginByKey/ - /rest/$directory/loginByKey/ 2015-01-01 08:25:20 08:25:20 13
+363 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "" "127.0.0.1:8081" "" "4D_HTTP_Client/10" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2015-01-01 08:25:20 08:25:20 112
+640 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=B29745D6C1644C5E8D4EB521E40B9DF4" "127.0.0.1:8081" "" "4D_HTTP_Client/10" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2015-01-01 08:25:54 08:25:54 108
+640 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=B29745D6C1644C5E8D4EB521E40B9DF4" "127.0.0.1:8081" "" "4D_HTTP_Client/10" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2015-01-01 08:31:11 08:31:11 110
+31 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=B29745D6C1644C5E8D4EB521E40B9DF4" "127.0.0.1:8081" "" "4D_HTTP_Client/10" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2015-01-01 08:35:41 08:35:41 2
+56 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=B29745D6C1644C5E8D4EB521E40B9DF4" "127.0.0.1:8081" "" "4D_HTTP_Client/10" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2015-01-01 08:36:09 08:36:09 3
+58 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=B29745D6C1644C5E8D4EB521E40B9DF4" "127.0.0.1:8081" "" "4D_HTTP_Client/10" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2015-01-01 08:36:15 08:36:15 3
+74 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=B29745D6C1644C5E8D4EB521E40B9DF4" "127.0.0.1:8081" "" "4D_HTTP_Client/10" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2015-01-01 08:36:48 08:36:48 3
+77 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=B29745D6C1644C5E8D4EB521E40B9DF4" "127.0.0.1:8081" "" "4D_HTTP_Client/10" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2015-01-01 08:36:55 08:36:55 3
+1216 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=B29745D6C1644C5E8D4EB521E40B9DF4" "127.0.0.1:8081" "" "4D_HTTP_Client/10" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2015-01-01 08:39:13 08:39:13 128
+1228 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=B29745D6C1644C5E8D4EB521E40B9DF4" "127.0.0.1:8081" "" "4D_HTTP_Client/10" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2015-01-01 08:40:11 08:40:11 124
+538 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=B29745D6C1644C5E8D4EB521E40B9DF4" "127.0.0.1:8081" "" "4D_HTTP_Client/10" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2015-01-01 08:40:38 08:40:38 124
+596 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=B29745D6C1644C5E8D4EB521E40B9DF4" "127.0.0.1:8081" "" "4D_HTTP_Client/10" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2015-01-01 08:40:53 08:40:53 123
+420 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=B29745D6C1644C5E8D4EB521E40B9DF4" "127.0.0.1:8081" "" "4D_HTTP_Client/10" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2015-01-01 08:41:10 08:41:10 133
+355 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=B29745D6C1644C5E8D4EB521E40B9DF4" "127.0.0.1:8081" "" "4D_HTTP_Client/10" - POST ::ffff:127.0.0.1 500 /debug/eval/file - /debug/eval/file 2015-01-01 08:41:51 08:41:51 7505
+527 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=B29745D6C1644C5E8D4EB521E40B9DF4" "127.0.0.1:8081" "" "4D_HTTP_Client/10" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2015-01-01 08:42:02 08:42:02 121
+539 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=B29745D6C1644C5E8D4EB521E40B9DF4" "127.0.0.1:8081" "" "4D_HTTP_Client/10" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2015-01-01 08:42:26 08:42:26 120
+527 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=B29745D6C1644C5E8D4EB521E40B9DF4" "127.0.0.1:8081" "" "4D_HTTP_Client/10" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2015-01-01 08:44:20 08:44:20 121
+427 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=B29745D6C1644C5E8D4EB521E40B9DF4" "127.0.0.1:8081" "" "4D_HTTP_Client/10" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2015-01-01 08:44:32 08:44:32 119
+439 ::ffff:127.0.0.1 ::ffff:127.0.0.1 "WASID=B29745D6C1644C5E8D4EB521E40B9DF4" "127.0.0.1:8081" "" "4D_HTTP_Client/10" - POST ::ffff:127.0.0.1 200 /debug/eval/file - /debug/eval/file 2015-01-01 08:45:04 08:45:04 136
