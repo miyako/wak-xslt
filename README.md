@@ -1,7 +1,7 @@
 wak-xslt
 ========
 
-Wakanda XLST module.
+Wakanda XSLT module.
 
 About
 -----
